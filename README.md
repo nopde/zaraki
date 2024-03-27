@@ -1,7 +1,7 @@
 # Zaraki
 
 > [!IMPORTANT]
-> This program only works on Windows.
+> The only supported operating system is Windows.
 
 ## Installation
 ```python -m pip install -r requirements.txt```
