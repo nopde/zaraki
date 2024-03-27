@@ -12,5 +12,5 @@
 - Use the script (app.py).
 
 ## Thanks to
-- [r2modman](https://github.com/ebkr/r2modmanPlus) for the mod list.
+- [r2modmanPlus](https://github.com/ebkr/r2modmanPlus) for the mod list.
 - [Thunderstore](https://thunderstore.io/) for the API.
