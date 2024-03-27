@@ -7,7 +7,7 @@
 ```python -m pip install -r requirements.txt```
 
 ## Usage
-- Download <a href="https://github.com/ebkr/r2modmanPlus">r2modman</a>, create a profile, add some mods and copy "mods.yml" from the profile files.
+- Download <a href="https://github.com/ebkr/r2modmanPlus">r2modmanPlus</a>, create a profile, add some mods and copy "mods.yml" from the profile files.
 - Replace current "mods.yml" file to the new one (Set "offline" argument to True on get_mod_list).
 - Use the script (app.py).
 
